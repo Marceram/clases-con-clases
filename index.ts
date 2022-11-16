@@ -15,6 +15,7 @@ constructor(members: string[], albums: Album[]){
 
 function main(){
     const unaBanda = new Banda(["marce"], [])
+    console.log("vino una persona y agregó algo")
 }
 
 main ()
